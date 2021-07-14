@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>salom dostim men netlifydaman</h1>
+      <h1>salom dostim men netlifydaman ikkinchi versiyasi</h1>
     </div>
   );
 }
