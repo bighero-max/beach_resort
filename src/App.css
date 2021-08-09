@@ -368,7 +368,7 @@ h6 {
   width: 80vw;
   margin: 0 auto;
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   grid-row-gap: 2rem;
   grid-column-gap: 50px;
 }
@@ -511,3 +511,15 @@ h6 {
   }
 }
 /* end of rooms fitler*/
+
+/* footr section start*/
+.footer{
+  width: 100%;
+  padding: 2rem;
+  background: var(--offWhite);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+/* footr section end*/
